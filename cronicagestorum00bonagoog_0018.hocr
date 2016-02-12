@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cronicagestorum00bonagoog_0018.png"; bbox 0 0 4895 7066; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2555 2832 2947 2844">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2555 2832 2947 2844">
+     <span class='ocr_line' id='line_1_1' title="bbox 2555 2832 2947 2844; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2555 2832 2947 2844; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1703 2924 3708 2995">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1703 2924 3708 2995">
+     <span class='ocr_line' id='line_1_2' title="bbox 1703 2924 3708 2995; baseline 0 -16"><span class='ocrx_word' id='word_1_2' title='bbox 1703 2927 1833 2979; x_wconf 80' lang='lat' dir='ltr'><strong><em>C&#39;od.</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1862 2944 1932 2974; x_wconf 84' lang='lat'><strong><em>=</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1958 2926 2187 2979; x_wconf 70' lang='lat' dir='ltr'><strong>Comen</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2228 2941 2287 2979; x_wconf 84' lang='lat' dir='ltr'><em>n.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2327 2925 2411 2992; x_wconf 82' lang='lat'><em>56,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2455 2925 2600 2977; x_wconf 78' lang='lat' dir='ltr'><strong>della</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2635 2924 2782 2975; x_wconf 77' lang='lat' dir='ltr'><em>Bibl.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2821 2927 3011 2977; x_wconf 69' lang='lat' dir='ltr'><em>Palae.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 3049 2927 3114 2978; x_wconf 80' lang='lat' dir='ltr'><em>di</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 3142 2930 3370 2991; x_wconf 75' lang='lat' dir='ltr'><em>Parma,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 3409 2926 3708 2995; x_wconf 68' lang='lat' dir='ltr'>autogr-aso</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2554 3062 2953 3082">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2554 3062 2953 3082">
+     <span class='ocr_line' id='line_1_3' title="bbox 2554 3062 2953 3082; baseline 0 3984"><span class='ocrx_word' id='word_1_13' title='bbox 2554 3062 2953 3082; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 4837 4747 4850 4914">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 4837 4747 4850 4914">
+     <span class='ocr_line' id='line_1_4' title="bbox 4837 4747 4850 4914; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 4837 4747 4850 4914; x_wconf 46' lang='lat' dir='ltr'>---Q—</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
